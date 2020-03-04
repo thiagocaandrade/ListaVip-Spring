@@ -1,2 +1,2 @@
 # ListaVip-Spring
-Spring Boot: Agilidade no desenvolvimento java com Spring 
+Alura Spring Boot ListaVip: http://localhost:9000/
